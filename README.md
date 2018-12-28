@@ -10,10 +10,10 @@ When you use server-side encryption, Amazon S3 encrypts an object before saving 
 
 AWS S3 server-side encryption uses one of the strongest block ciphers available, 256-bit Advanced Encryption Standard (AES-256), to encrypt your data.
 
-### Please note AWS S3 and AWS KMS will incur costs to you.
+### *Please note AWS S3 and AWS KMS will incur costs to you.
 
-[S3](https://aws.amazon.com/s3/) [pricing](https://aws.amazon.com/s3/pricing/)
-[KMS](https://aws.amazon.com/kms/) [pricing](https://aws.amazon.com/kms/pricing/)
+* [S3 pricing](https://aws.amazon.com/s3/pricing/)
+* [KMS pricing](https://aws.amazon.com/kms/pricing/)
 
 ## Prerequisites:
 
