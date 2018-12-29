@@ -1,4 +1,4 @@
-# aws-encrypted-s3-cfn-template
+# aws-encrypted-s3-cf-template
 
 ## Description:
 
@@ -25,7 +25,7 @@ _***note AWS S3 and AWS KMS will incur costs**_
 AWS Management Console
 
 * Login to AWS Management Console
-* Launch in CloudFormation encrypted-s3.yml (from the repo you cloned)
+* Launch in CloudFormation encrypted-s3-cf-template.yml (from the repo you cloned)
 
 CloudFormation Fields
 
