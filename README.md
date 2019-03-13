@@ -1,4 +1,5 @@
 # aws-encrypted-s3-cf-template
+[![Build Status](https://travis-ci.org/getcft/aws-encrypted-s3-cf-template.svg?branch=master)](https://travis-ci.org/getcft/aws-encrypted-s3-cf-template)
 
 ## Description:
 
